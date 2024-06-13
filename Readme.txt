@@ -9,10 +9,10 @@ O objetivo deste projeto é criar uma aplicação web responsiva e dinâmica uti
 -> Tecnologias Utilizadas
 
 - Bootstrap: Framework CSS para o desenvolvimento de interfaces web responsivas e mobile-first.
-- **HTML**: Linguagem de marcação para estruturar o conteúdo da página web.
-- **CSS**: Folhas de estilo para estilização e personalização do layout.
-- **JavaScript**: Linguagem de programação para interatividade e dinamismo no lado do cliente.
-- **PHP**: Linguagem de script utilizada no lado do servidor para processamento de formulários, conexão com banco de dados, entre outras funcionalidades.
+- HTML: Linguagem de marcação para estruturar o conteúdo da página web.
+- CSS: Folhas de estilo para estilização e personalização do layout.
+- JavaScript: Linguagem de programação para interatividade e dinamismo no lado do cliente.
+- PHP: Linguagem de script utilizada no lado do servidor para processamento de formulários, conexão com banco de dados, entre outras funcionalidades.
 
 -> Funcionalidades
 
@@ -23,11 +23,15 @@ O objetivo deste projeto é criar uma aplicação web responsiva e dinâmica uti
 
 -> Estrutura do Projeto
 
-- `index.html`: Página principal da aplicação.
-- `styles.css`: Arquivo CSS personalizado para estilos adicionais.
-- `script.js`: Arquivo JavaScript para funcionalidades interativas.
-- `backend/`: Diretório contendo scripts PHP para o lado do servidor.
+- index.html: Página principal da aplicação.
+- styles.css: Arquivo CSS personalizado para estilos adicionais.
+- script.js: Arquivo JavaScript para funcionalidades interativas.
+- backend/: Diretório contendo scripts PHP para o lado do servidor.
 
 Contribuições são bem-vindas! 
 
 Sinta-se à vontade para enviar pull requests para melhorias.
+
+:: Licença
+
+Este projeto está licenciado sob a Licença MIT.
